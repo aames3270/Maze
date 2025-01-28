@@ -1,0 +1,3 @@
+/Users/albertoames/Desktop/Maze/cmake-build-debug/CMakeFiles/Maze.dir
+/Users/albertoames/Desktop/Maze/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/albertoames/Desktop/Maze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
